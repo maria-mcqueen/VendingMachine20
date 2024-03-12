@@ -1,0 +1,3 @@
+C:/Users/tenni/CLionProjects/lab12_13_poo_20MAI/cmake-build-debug/CMakeFiles/lab12_13_poo_20MAI.dir
+C:/Users/tenni/CLionProjects/lab12_13_poo_20MAI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tenni/CLionProjects/lab12_13_poo_20MAI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

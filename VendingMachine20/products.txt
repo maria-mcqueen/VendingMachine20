@@ -1,0 +1,9 @@
+1 mNm 10
+2 fanta 7
+3 milka 5
+4 steamGiftCard 8
+5 ceai 6
+6 mine2 15
+7 dorianPopa 5
+8 opt 8
+10 kit 0
